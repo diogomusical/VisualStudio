@@ -1,0 +1,15 @@
+C:\Users\Cesae\Desktop\Projetos\Contabancaria\Contabancaria\bin\Debug\net6.0\Contabancaria.exe
+C:\Users\Cesae\Desktop\Projetos\Contabancaria\Contabancaria\bin\Debug\net6.0\Contabancaria.deps.json
+C:\Users\Cesae\Desktop\Projetos\Contabancaria\Contabancaria\bin\Debug\net6.0\Contabancaria.runtimeconfig.json
+C:\Users\Cesae\Desktop\Projetos\Contabancaria\Contabancaria\bin\Debug\net6.0\Contabancaria.dll
+C:\Users\Cesae\Desktop\Projetos\Contabancaria\Contabancaria\bin\Debug\net6.0\Contabancaria.pdb
+C:\Users\Cesae\Desktop\Projetos\Contabancaria\Contabancaria\obj\Debug\net6.0\Contabancaria.csproj.AssemblyReference.cache
+C:\Users\Cesae\Desktop\Projetos\Contabancaria\Contabancaria\obj\Debug\net6.0\Contabancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesae\Desktop\Projetos\Contabancaria\Contabancaria\obj\Debug\net6.0\Contabancaria.AssemblyInfoInputs.cache
+C:\Users\Cesae\Desktop\Projetos\Contabancaria\Contabancaria\obj\Debug\net6.0\Contabancaria.AssemblyInfo.cs
+C:\Users\Cesae\Desktop\Projetos\Contabancaria\Contabancaria\obj\Debug\net6.0\Contabancaria.csproj.CoreCompileInputs.cache
+C:\Users\Cesae\Desktop\Projetos\Contabancaria\Contabancaria\obj\Debug\net6.0\Contabancaria.dll
+C:\Users\Cesae\Desktop\Projetos\Contabancaria\Contabancaria\obj\Debug\net6.0\refint\Contabancaria.dll
+C:\Users\Cesae\Desktop\Projetos\Contabancaria\Contabancaria\obj\Debug\net6.0\Contabancaria.pdb
+C:\Users\Cesae\Desktop\Projetos\Contabancaria\Contabancaria\obj\Debug\net6.0\Contabancaria.genruntimeconfig.cache
+C:\Users\Cesae\Desktop\Projetos\Contabancaria\Contabancaria\obj\Debug\net6.0\ref\Contabancaria.dll
