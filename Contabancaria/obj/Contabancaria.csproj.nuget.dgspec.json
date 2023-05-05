@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cesae\\Desktop\\Backup_ambiente_trabalho_14_04_2023\\Contabancaria\\Contabancaria\\Contabancaria\\Contabancaria.csproj": {}
+    "C:\\Users\\Cesae\\Desktop\\Diogo\\VisualStudio\\Contabancaria\\Contabancaria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cesae\\Desktop\\Backup_ambiente_trabalho_14_04_2023\\Contabancaria\\Contabancaria\\Contabancaria\\Contabancaria.csproj": {
+    "C:\\Users\\Cesae\\Desktop\\Diogo\\VisualStudio\\Contabancaria\\Contabancaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cesae\\Desktop\\Backup_ambiente_trabalho_14_04_2023\\Contabancaria\\Contabancaria\\Contabancaria\\Contabancaria.csproj",
+        "projectUniqueName": "C:\\Users\\Cesae\\Desktop\\Diogo\\VisualStudio\\Contabancaria\\Contabancaria.csproj",
         "projectName": "Contabancaria",
-        "projectPath": "C:\\Users\\cesae\\Desktop\\Backup_ambiente_trabalho_14_04_2023\\Contabancaria\\Contabancaria\\Contabancaria\\Contabancaria.csproj",
-        "packagesPath": "C:\\Users\\cesae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cesae\\Desktop\\Backup_ambiente_trabalho_14_04_2023\\Contabancaria\\Contabancaria\\Contabancaria\\obj\\",
+        "projectPath": "C:\\Users\\Cesae\\Desktop\\Diogo\\VisualStudio\\Contabancaria\\Contabancaria.csproj",
+        "packagesPath": "C:\\Users\\Cesae\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cesae\\Desktop\\Diogo\\VisualStudio\\Contabancaria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\cesae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Cesae\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

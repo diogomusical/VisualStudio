@@ -39,6 +39,7 @@
             Console.WriteLine("Dados atualizados da conta: ");
             Console.WriteLine(cb);
 
+            Console.WriteLine("onde está o guilho?");
             cb.Titular = "Pedro";
            Console.WriteLine(cb);
         }
