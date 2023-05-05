@@ -44,6 +44,7 @@
             Console.WriteLine("Bom feitio.");
             Console.WriteLine("nice");
             Console.WriteLine("Está de chuva.");
+            Console.WriteLine("Esta sol");
             cb.Titular = "Pedro";
            Console.WriteLine(cb);
         }
