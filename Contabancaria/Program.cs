@@ -41,6 +41,7 @@
 
             Console.WriteLine("onde está o guilho?");
             Console.WriteLine("tretas");
+            Console.WriteLine("Bom feitio.");
             cb.Titular = "Pedro";
            Console.WriteLine(cb);
         }
