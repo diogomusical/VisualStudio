@@ -40,6 +40,7 @@
             Console.WriteLine(cb);
 
             Console.WriteLine("onde está o guilho?");
+            Console.WriteLine("No banco");
             cb.Titular = "Pedro";
            Console.WriteLine(cb);
         }
