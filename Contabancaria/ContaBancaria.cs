@@ -15,7 +15,7 @@ namespace Contabancaria
         public double Saldo {  get; private set; }
 
         //Construtores
-
+        Console.WriteLine("Esta é alteração feita por Diogo.");
         //este construtor permite instanciar contas bancárias apenas com o nº de conta e o seu titular
         public ContaBancaria(int numero, string titular) 
         {
